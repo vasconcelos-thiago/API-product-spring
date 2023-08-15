@@ -17,9 +17,15 @@ VIEW - exbir a estrutura das páginas;
 CONTROLLER - intermediário entre a model e a view.
 
 #Vantagens do uso do spring
--padronizar projetos
+-padronizar projetos.
+
 -metodos pré-moldados
+
 -velocidade de elaboração de projetos
+
 -segurança
+
 -performace
+
 -documentação
+
