@@ -1,7 +1,10 @@
 SPRINGBOOT project-api
+
 Essa é a criação de uma api de produtos em spring. 
-abaixo deste readme temos a imagem de como deve ser gerado o projeto no site 'Spring initializr'
-quais dependencias devem ser adicionadas para o funcionamento correto.
+abaixo deste readme temos a imagem de como deve ser gerado o projeto
+no site 'Spring initializr' e quais dependencias devem ser adicionadas
+para o funcionamento correto.
+
 setup - linux ubuntu, intellij, postgres e pgAdmin4, postman.
 
 
